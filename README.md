@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/rafael-rutsatz/" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://medium.com/@rutsatz" rel="nofollow" target="_blank">
+  <a href="https://medium.com/@rafael.rutsatz" rel="nofollow" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" style="max-width: 100%;">
   </a>  
 </div>
